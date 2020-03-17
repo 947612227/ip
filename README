@@ -1,1 +1,15 @@
 文件太大，重新创建
+测试地址
+http://www.huaxialijian.com
+查看结果
+http://www.huaxialijian.com/res.php
+
+用的百度6元3月虚拟主机，比较垃圾，建议不要频繁访问
+
+https://github.com/947612227/ip.git
+
+环境需求
+php 5 or 7 ,mysql 5.7, nginx
+
+库名 默认为 my_db
+表名 ips
